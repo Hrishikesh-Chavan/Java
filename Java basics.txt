@@ -1,0 +1,9 @@
+ if you want to use static method in program first you have to create method name then its return type then static and then 
+ access modifier(optional).
+ you can use static method directly in main method.
+ you can use instance varible in static method by making varible as static var.
+
+ if you want non static method first you have to type method name then return type then access modifier(optional).
+ you can access method name in main method by creating obj of class then using obj.method name 
+
+ if you want to use a variable in any methods then you can make this varible as instance varible(global varible/var of class). 
