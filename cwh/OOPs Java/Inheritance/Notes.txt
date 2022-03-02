@@ -1,0 +1,6 @@
+5-types of inheritance are there:
+   1. Single inheritance
+   2. Multi-level inheritance
+   3. Hierarchical inheritance
+   4. Hybrid inheritance
+   5. Multiple inheritance (Interfaces)
